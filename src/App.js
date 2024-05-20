@@ -81,7 +81,7 @@ function App() {
                         setShowDropdown(false);
                         setSearchInput('')
                       }}
-                      className="cursor-pointer hover:bg-gray-100 py-2 px-4 block text-purple-600 font-bold"
+                      className="cursor-pointer hover:bg-gray-100 py-2 px-4 block font-bold"
                     >
                       {suggestion}
                     </li>
